@@ -6,7 +6,7 @@ This **JavaScript-based project** is a text-based RPG game where players navigat
 
 ### Example Gameplay
 
-![Dragon Repeller Gameplay Screenshot](Assets/Gameplay.png)
+![Dragon Repeller Gameplay Screenshot](Assets/Game.png)
 
 ## Features
 
