@@ -19,7 +19,7 @@ This **JavaScript-based project** is a text-based RPG game where players navigat
 
 ## Play Online
 
-Click To Play: [Dragon Repeller Game](https://eddking-qs.github.io/JavaScript-Mini_Project-Role_Playing_Game/)
+Click To Play: [Dragon Repeller Game](https://quintincodes.github.io/JavaScript-Mini_Project-Role_Playing_Game/)
 
 ## Disclaimer
 
